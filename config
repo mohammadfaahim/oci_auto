@@ -3,4 +3,4 @@ user=ocid1.user.oc1..aaaaaaaa24wkdrv63nyxkfudaiabjdh36dj7ghmi2byd3xtxgiry2srjbay
 fingerprint=b78a0d111fe603adc2256c6c1dad4fac
 tenancy=ocid1.tenancy.oc1..aaaaaaaagraea2egj25763hkxotcmfjv4bnbhywdwvs5s4k36lfokmbjdvaa
 region=ap-singapore-1
-key_file=path to your private keyfile # TODO
+key_file=C:\Users\Shuvo\Downloads\oci\oci_private_key.pem
